@@ -1,0 +1,121 @@
+{
+  "Category": {
+    "type": "single-label",
+    "values": [
+      "Bridesmaid Dress",
+      "Prom Gown",
+      "Wedding Dress",
+      "Cocktail Dress",
+      "Evening Gown",
+      "Formal Dress",
+      "Party Dress",
+      "Homecoming Dress"
+    ]
+  },
+  "Silhouette": {
+    "type": "single-label",
+    "values": [
+      "A-line",
+      "Ball Gown",
+      "Mermaid",
+      "Sheath",
+      "Fit and Flare",
+      "Empire",
+      "Column",
+      "Trumpet",
+      "Not Specified"
+    ]
+  },
+  "Fabric": {
+    "type": "single-label",
+    "values": [
+      "Chiffon",
+      "Satin",
+      "Lace",
+      "Sequin",
+      "Tulle",
+      "Velvet",
+      "Jersey",
+      "Organza",
+      "Crepe",
+      "Tweed",
+      "Not Specified"
+    ]
+  },
+  "Neckline": {
+    "type": "single-label",
+    "values": [
+      "V-neck",
+      "Sweetheart",
+      "Illusion",
+      "Off-shoulder",
+      "Square",
+      "One-shoulder",
+      "Strapless",
+      "Scoop",
+      "Halter",
+      "Boat Neck",
+      "Not Specified"
+    ]
+  },
+  "Sleeve": {
+    "type": "single-label",
+    "values": [
+      "Sleeveless",
+      "Strapless",
+      "Cap Sleeve",
+      "Long Sleeve",
+      "Short Sleeve",
+      "Puff Sleeve",
+      "One-shoulder Drape",
+      "Not Specified"
+    ]
+  },
+  "Length": {
+    "type": "single-label",
+    "values": [
+      "Floor Length",
+      "Short/Mini",
+      "Tea Length",
+      "Knee Length",
+      "Sweep Train",
+      "Chapel Train",
+      "Not Specified"
+    ]
+  },
+  "Embellishment": {
+    "type": "multi-label",
+    "values": [
+      "Beaded",
+      "Sequin",
+      "Embroidered",
+      "Feather Trim",
+      "Ruched",
+      "Pleated",
+      "Corset Bodice",
+      "Lace Overlay",
+      "Scalloped Hem",
+      "Draped",
+      "Layered Skirt",
+      "Not Specified"
+    ]
+  },
+  "Color": {
+    "type": "multi-label",
+    "values": [
+      "Sage",
+      "Dusty Blue",
+      "Royal Navy",
+      "Black",
+      "Red",
+      "Blush",
+      "Ivory",
+      "Champagne",
+      "Emerald",
+      "Burgundy",
+      "Gold",
+      "Silver",
+      "Not Specified"
+    ]
+  }
+}
