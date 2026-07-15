@@ -5,7 +5,12 @@ descriptions into structured attributes (Category, Silhouette, Fabric,
 Neckline, Sleeve, Length, Embellishment, Color) using TF-IDF and Logistic
 Regression, served via a FastAPI endpoint.
 
-Built for the Webvory recruitment assignment.
+## Demo
+
+A short walkthrough video demonstrating the dataset, training, evaluation
+metrics, and a live API request is available in
+https://github.com/anuragchawla27/product-attribute-extraction/blob/main/Demo.mp4
+
 
 ## Example
 
@@ -121,11 +126,6 @@ primarily limited by the small dataset size (55 rows) relative to the
 number of possible classes per attribute. Full metrics and failure case
 analysis are in [`docs/evaluation_report.md`](docs/evaluation_report.md).
 
-## Demo
-
-A short walkthrough video demonstrating the dataset, training, evaluation
-metrics, and a live API request is available in
-[`demo/demo_recording.mp4`] "C:\Users\DELL\OneDrive\Documents\Anurag\Anurag_Projects\Product Attribute Extraction\Demo.mp4"
 
 ## Author
 
