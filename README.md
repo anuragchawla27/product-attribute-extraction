@@ -9,6 +9,8 @@ Regression, served via a FastAPI endpoint.
 
 A short walkthrough video demonstrating the dataset, training, evaluation
 metrics, and a live API request is available in
+Download to review video :
+
 https://github.com/anuragchawla27/product-attribute-extraction/blob/main/Demo.mp4
 
 
