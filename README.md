@@ -125,7 +125,7 @@ analysis are in [`docs/evaluation_report.md`](docs/evaluation_report.md).
 
 A short walkthrough video demonstrating the dataset, training, evaluation
 metrics, and a live API request is available in
-[`demo/demo_recording.mp4`](demo/demo_recording.mp4).
+[`demo/demo_recording.mp4`] "C:\Users\DELL\OneDrive\Documents\Anurag\Anurag_Projects\Product Attribute Extraction\Demo.mp4"
 
 ## Author
 
